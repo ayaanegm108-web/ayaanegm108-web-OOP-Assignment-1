@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayaan\\Desktop\\Simulation\\Assingments\\githuppppppppppppppppp\\OOP_Design_Assignment1_Submission\\_HotelReservationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9779E21-FD16-45E5-8A97-DDAAC5B793CC}|Part2_HotelReservationSystem.csproj|c:\\users\\ayaan\\desktop\\simulation\\assingments\\githuppppppppppppppppp\\oop_design_assignment1_submission\\_hotelreservationsystem\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9779E21-FD16-45E5-8A97-DDAAC5B793CC}|Part2_HotelReservationSystem.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9779E21-FD16-45E5-8A97-DDAAC5B793CC}|Part2_HotelReservationSystem.csproj|c:\\users\\ayaan\\desktop\\simulation\\assingments\\githuppppppppppppppppp\\oop_design_assignment1_submission\\_hotelreservationsystem\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9779E21-FD16-45E5-8A97-DDAAC5B793CC}|Part2_HotelReservationSystem.csproj|solutionrelative:reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9779E21-FD16-45E5-8A97-DDAAC5B793CC}|_HotelReservationSystem.csproj|c:\\users\\ayaan\\desktop\\simulation\\assingments\\githuppppppppppppppppp\\oop_design_assignment1_submission\\_hotelreservationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9779E21-FD16-45E5-8A97-DDAAC5B793CC}|_HotelReservationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9779E21-FD16-45E5-8A97-DDAAC5B793CC}|Part2_HotelReservationSystem.csproj|c:\\users\\ayaan\\desktop\\simulation\\assingments\\githuppppppppppppppppp\\oop_design_assignment1_submission\\_hotelreservationsystem\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9779E21-FD16-45E5-8A97-DDAAC5B793CC}|Part2_HotelReservationSystem.csproj|solutionrelative:guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\ayaan\\Desktop\\Simulation\\Assingments\\githuppppppppppppppppp\\OOP_Design_Assignment1_Submission\\_HotelReservationSystem\\Reservation.cs",
+              "RelativeDocumentMoniker": "Reservation.cs",
+              "ToolTip": "C:\\Users\\ayaan\\Desktop\\Simulation\\Assingments\\githuppppppppppppppppp\\OOP_Design_Assignment1_Submission\\_HotelReservationSystem\\Reservation.cs",
+              "RelativeToolTip": "Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T20:51:51.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\ayaan\\Desktop\\Simulation\\Assingments\\githuppppppppppppppppp\\OOP_Design_Assignment1_Submission\\_HotelReservationSystem\\Room.cs",
+              "RelativeDocumentMoniker": "Room.cs",
+              "ToolTip": "C:\\Users\\ayaan\\Desktop\\Simulation\\Assingments\\githuppppppppppppppppp\\OOP_Design_Assignment1_Submission\\_HotelReservationSystem\\Room.cs",
+              "RelativeToolTip": "Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T20:52:32.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayaan\\Desktop\\Simulation\\Assingments\\githuppppppppppppppppp\\OOP_Design_Assignment1_Submission\\_HotelReservationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ayaan\\Desktop\\Simulation\\Assingments\\githuppppppppppppppppp\\OOP_Design_Assignment1_Submission\\_HotelReservationSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T20:47:26.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\ayaan\\Desktop\\Simulation\\Assingments\\githuppppppppppppppppp\\OOP_Design_Assignment1_Submission\\_HotelReservationSystem\\Guest.cs",
+              "RelativeDocumentMoniker": "Guest.cs",
+              "ToolTip": "C:\\Users\\ayaan\\Desktop\\Simulation\\Assingments\\githuppppppppppppppppp\\OOP_Design_Assignment1_Submission\\_HotelReservationSystem\\Guest.cs",
+              "RelativeToolTip": "Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T20:56:18.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
