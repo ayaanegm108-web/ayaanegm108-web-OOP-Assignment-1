@@ -1,0 +1,15 @@
+C:\Users\ayaan\Desktop\Simulation\Assingments\OrderSystem\obj\Debug\net10.0\OrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayaan\Desktop\Simulation\Assingments\OrderSystem\obj\Debug\net10.0\OrderSystem.AssemblyInfoInputs.cache
+C:\Users\ayaan\Desktop\Simulation\Assingments\OrderSystem\obj\Debug\net10.0\OrderSystem.AssemblyInfo.cs
+C:\Users\ayaan\Desktop\Simulation\Assingments\OrderSystem\obj\Debug\net10.0\OrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\ayaan\Desktop\Simulation\Assingments\OrderSystem\bin\Debug\net10.0\OrderSystem.exe
+C:\Users\ayaan\Desktop\Simulation\Assingments\OrderSystem\bin\Debug\net10.0\OrderSystem.deps.json
+C:\Users\ayaan\Desktop\Simulation\Assingments\OrderSystem\bin\Debug\net10.0\OrderSystem.runtimeconfig.json
+C:\Users\ayaan\Desktop\Simulation\Assingments\OrderSystem\bin\Debug\net10.0\OrderSystem.dll
+C:\Users\ayaan\Desktop\Simulation\Assingments\OrderSystem\bin\Debug\net10.0\OrderSystem.pdb
+C:\Users\ayaan\Desktop\Simulation\Assingments\OrderSystem\obj\Debug\net10.0\OrderSystem.dll
+C:\Users\ayaan\Desktop\Simulation\Assingments\OrderSystem\obj\Debug\net10.0\refint\OrderSystem.dll
+C:\Users\ayaan\Desktop\Simulation\Assingments\OrderSystem\obj\Debug\net10.0\OrderSystem.pdb
+C:\Users\ayaan\Desktop\Simulation\Assingments\OrderSystem\obj\Debug\net10.0\OrderSystem.genruntimeconfig.cache
+C:\Users\ayaan\Desktop\Simulation\Assingments\OrderSystem\obj\Debug\net10.0\ref\OrderSystem.dll
+C:\Users\ayaan\Desktop\Simulation\Assingments\OrderSystem\obj\Debug\net10.0\OrderSys.2C88F342.Up2Date

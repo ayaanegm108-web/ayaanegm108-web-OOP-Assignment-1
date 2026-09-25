@@ -1,0 +1,15 @@
+C:\Users\ayaan\Desktop\Simulation\Assingments\githuppppppppppppppppp\OOP_Design_Assignment1_Submission\Part3_BuilderPattern\bin\Debug\net10.0\Part3_BuilderPattern.exe
+C:\Users\ayaan\Desktop\Simulation\Assingments\githuppppppppppppppppp\OOP_Design_Assignment1_Submission\Part3_BuilderPattern\bin\Debug\net10.0\Part3_BuilderPattern.deps.json
+C:\Users\ayaan\Desktop\Simulation\Assingments\githuppppppppppppppppp\OOP_Design_Assignment1_Submission\Part3_BuilderPattern\bin\Debug\net10.0\Part3_BuilderPattern.runtimeconfig.json
+C:\Users\ayaan\Desktop\Simulation\Assingments\githuppppppppppppppppp\OOP_Design_Assignment1_Submission\Part3_BuilderPattern\bin\Debug\net10.0\Part3_BuilderPattern.dll
+C:\Users\ayaan\Desktop\Simulation\Assingments\githuppppppppppppppppp\OOP_Design_Assignment1_Submission\Part3_BuilderPattern\bin\Debug\net10.0\Part3_BuilderPattern.pdb
+C:\Users\ayaan\Desktop\Simulation\Assingments\githuppppppppppppppppp\OOP_Design_Assignment1_Submission\Part3_BuilderPattern\obj\Debug\net10.0\Part3_BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayaan\Desktop\Simulation\Assingments\githuppppppppppppppppp\OOP_Design_Assignment1_Submission\Part3_BuilderPattern\obj\Debug\net10.0\Part3_BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\ayaan\Desktop\Simulation\Assingments\githuppppppppppppppppp\OOP_Design_Assignment1_Submission\Part3_BuilderPattern\obj\Debug\net10.0\Part3_BuilderPattern.AssemblyInfo.cs
+C:\Users\ayaan\Desktop\Simulation\Assingments\githuppppppppppppppppp\OOP_Design_Assignment1_Submission\Part3_BuilderPattern\obj\Debug\net10.0\Part3_BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\ayaan\Desktop\Simulation\Assingments\githuppppppppppppppppp\OOP_Design_Assignment1_Submission\Part3_BuilderPattern\obj\Debug\net10.0\Part3_BuilderPattern.dll
+C:\Users\ayaan\Desktop\Simulation\Assingments\githuppppppppppppppppp\OOP_Design_Assignment1_Submission\Part3_BuilderPattern\obj\Debug\net10.0\refint\Part3_BuilderPattern.dll
+C:\Users\ayaan\Desktop\Simulation\Assingments\githuppppppppppppppppp\OOP_Design_Assignment1_Submission\Part3_BuilderPattern\obj\Debug\net10.0\Part3_BuilderPattern.pdb
+C:\Users\ayaan\Desktop\Simulation\Assingments\githuppppppppppppppppp\OOP_Design_Assignment1_Submission\Part3_BuilderPattern\obj\Debug\net10.0\Part3_BuilderPattern.genruntimeconfig.cache
+C:\Users\ayaan\Desktop\Simulation\Assingments\githuppppppppppppppppp\OOP_Design_Assignment1_Submission\Part3_BuilderPattern\obj\Debug\net10.0\ref\Part3_BuilderPattern.dll
+C:\Users\ayaan\Desktop\Simulation\Assingments\githuppppppppppppppppp\OOP_Design_Assignment1_Submission\Part3_BuilderPattern\obj\Debug\net10.0\Part3_Bu.D84A2A12.Up2Date
